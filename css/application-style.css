@@ -141,3 +141,18 @@ footer a {
     }
     
 }
+
+header .back-buttons{
+    text-align: left;
+}
+
+#back-button {
+    color: blue;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+#back-button:hover {
+    text-decoration: underline;
+}
